@@ -1,0 +1,7 @@
+main{
+  display: grid;
+  flex-direction: column;
+  height: 100svh;
+  width: 100vw;
+  place-items: center;
+}
